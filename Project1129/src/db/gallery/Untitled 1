@@ -1,0 +1,16 @@
+제목 : title varchar2(100)작성자: writer varchar2(30) 내용 content clob 이미지이름 filename varchar2(30) 등록일 regdate date default sysdate
+
+테이블 생성
+//create table gallery(
+//		gallery_id number primary key
+//		, title varchar2(100)
+//		, writer varchar2(30)
+//		, content clob
+//		, filename varchar2(30)
+//		, regdate date default sysdate
+//		);
+
+시퀀스 생성
+//create sequence seq_gallery
+//increment by 1
+//start with 1;

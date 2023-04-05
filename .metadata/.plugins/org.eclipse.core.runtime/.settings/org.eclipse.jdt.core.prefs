@@ -1,0 +1,31 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/java_ec/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Users/admin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933/jre/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Users/admin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933/jre/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/admin/.p2/pool/plugins/org.junit_4.13.2.v20211018-1956.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/admin/.m2/repository
+org.eclipse.jdt.core.codeComplete.argumentPrefixes=
+org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+org.eclipse.jdt.core.codeComplete.fieldSuffixes=
+org.eclipse.jdt.core.codeComplete.localPrefixes=
+org.eclipse.jdt.core.codeComplete.localSuffixes=
+org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
+org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.compliance=17
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=17
+org.eclipse.jdt.core.userLibrary.JDBC\ Driver=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/ThreadApp/lib/ojdbc6.jar"/>\r\n\t<archive path\="/ThreadApp/lib/mysql-connector-java-5.1.49.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.NetworkApp\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/NetworkApp/lib/json-simple-1.1.1.jar"/>\r\n\t<archive path\="/NetworkApp/lib/mysql-connector-java-5.1.49.jar"/>\r\n\t<archive path\="/NetworkApp/lib/commons-logging-1.1.jar"/>\r\n\t<archive path\="/NetworkApp/lib/junit-3.8.1.jar"/>\r\n\t<archive path\="/NetworkApp/lib/log4j-1.2.13.jar"/>\r\n\t<archive path\="/NetworkApp/lib/poi-3.7-20101029.jar"/>\r\n\t<archive path\="/NetworkApp/lib/poi-examples-3.7-20101029.jar"/>\r\n\t<archive path\="/NetworkApp/lib/poi-ooxml-3.7-20101029.jar"/>\r\n\t<archive path\="/NetworkApp/lib/poi-ooxml-schemas-3.7-20101029.jar"/>\r\n\t<archive path\="/NetworkApp/lib/poi-scratchpad-3.7-20101029.jar"/>\r\n\t<archive path\="/NetworkApp/lib/ojdbc6.jar"/>\r\n\t<archive path\="/NetworkApp/lib/xchart-3.8.2.jar"/>\r\n\t<archive path\="/NetworkApp/lib/xchart-demo-3.8.2.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.ShopAdmin=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/ShopAdmin/lib/ojdbc6.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.ShopClient=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/ShopClient/lib/ojdbc6.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.project1129\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/Project1129/lib/ojdbc6.jar"/>\r\n\t<archive path\="/Project1129/lib/javax.activation-1.2.0.jar"/>\r\n\t<archive path\="/Project1129/lib/javax.mail-1.6.2.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.\uD504\uB85C\uC81D\uD2B8\uBA85\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/Project1129/lib/ojdbc6.jar"/>\r\n</userlibrary>\r\n

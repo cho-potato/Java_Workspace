@@ -1,0 +1,10 @@
+CREATE TABLE dot(
+dot_id NUMBER PRIMARY KEY
+, x NUMBER
+, y NUMBER
+, gallery_id NUMBER 
+);
+
+CREATE SEQUENCE seq_dot
+increment BY 1
+START WITH 1;
